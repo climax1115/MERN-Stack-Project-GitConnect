@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://tk123:123@cluster0.esivq.mongodb.net/GitConnect?retryWrites=true&w=majority", 
+    "jwtSecret": "mysecrettoken", 
+    "githubClientId": "18bc0d5f92e09c4c5a09", 
+    "githubSecret": "891344f59528d536266c556d276632ea17020450"
+}
